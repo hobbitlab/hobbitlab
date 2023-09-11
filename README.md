@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<!--
-
  I am **Mingda Huo (霍明达)**, a Quantitative Investment Intern at the Asset Management Department of Ping An Insurance（Group）Company of China, Ltd.(https://group.pingan.com/).  I received my B.S. degree in Computer Science and Technology from [Jinan university](https://www.jnu.edu.cn/) in 2023, advised by Prof. [Lin Cui](https://cuilin.antlab.network/).
 
  My primary research interests include **federated learning**, **dataset distillation** and their intersections. If you have any academic problems or seeking any form of cooperation, please feel free to email me at [sydney678@stu2019.jnu.edu.cn]( sydney678@stu2019.jnu.edu.cn) 😃
@@ -81,4 +78,3 @@
 - *2023.07 - 2023.09 (now)*, [imotorlinx](https://www.imotorlinx.com/), Algorithm engineer, Hangzhou.
 - *2022.07 - 2023.03*, [Communist Youth League CUMT Committee](https://youth.cumt.edu.cn/) , Part-time Deputy Secretary (Student), Xuzhou.
 - *2022.01 - 2023.01*, [Student Workstation of CPC in CUMT](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%9F%BF%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%85%9A%E5%91%98%E5%B7%A5%E4%BD%9C%E7%AB%99%E6%80%BB%E7%AB%99/4843975?fr=ge_ala), Chairman, Xuzhou.
--->
