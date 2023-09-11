@@ -5,19 +5,6 @@
 
 🏷️Download my [CV-en](./霍明达个人简历.pdf).
 
-# 🔥 News
-
-- *2023.06*: As one of the 22 students in the school, I was awarded the **[Outstanding Student CPC Member of JNU](https://news.jnu.edu.cn/Item/52218.aspx)**.
-- *2023.06*: 🎓
-- *2023.05*: . 
-- *2022.11:*  
-- *2022.11:*  🎉[The 16th Congress of the Communist Youth League of CUMT](https://mp.weixin.qq.com/s/ctqBpc6esBGM_eLx-Vm5XQ) Successfully Held.
-- *2022.09:*  ✊After selection, I have obtained the qualification for admission to Zhejiang University's master's degree interview.
-- *2022.08:* 🎤 I gave a speech at the 2022 undergraduate opening ceremony of the [SIEE, CUMT.](https://siee.cumt.edu.cn/)
-- *2022.08:*&nbsp; I was awarded the 5th  **JNU "Youth May 4th Medal"** .
-- *2021.05:*&nbsp; I was awarded the  **[excellent student cadre in Guangdong Province]**.
-- *2021.04:*&nbsp; I was awarded the  **[excellent student cadre in Guangdong Province]**.
-
 # 📝 Publications
 
 ## 📊 Conference
@@ -58,23 +45,14 @@
 
 # 🎖 Honors and Awards
 
-- *2023.05*: ["Challenge Cup" Extracurricular Academic and Technological Works Competition for College Students  in Jiangsu Province](https://baijiahao.baidu.com/s?id=1766962643597869398&wfr=spider&for=pc), Second Prize
-- *2022.12:* [China International College Students’ “Internet+” Innovation and Entrepreneurship Competition in Jiangsu Province](http://jyt.jiangsu.gov.cn/art/2022/12/30/art_58320_10715973.html), Second Prize
-- *2022.09:* [Xiaomi Special Scholarship](https://siee.cumt.edu.cn/info/1078/3889.htm)*(10 students in the whole school)*
-- *2022.07:* [National Competition of Transport Science and Technology for Students](http://www.nactrans.com.cn/detail/2156), Second Prize
-- *2022.06:* [China Telecom Scholarship](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E5%A5%96%E5%AD%A6%E9%87%91/17274030?fr=ge_ala), Flyyoung Award*(1 students in the whole school)*
+- *2023.07*: Outstanding Contribution Graduates
+- *2023.06*: Outstanding Student CPC Member of JNU
+- *2022.09:* [Foursquare - Location Matching: Match point of interest data across datasets](https://www.kaggle.com/competitions/foursquare-location-matching)Silver Medal
+- *2022.07:* [Google Research - Image Matching Challenge](https://www.kaggle.com/competitions/image-matching-challenge-2022), Gold Medal
 - *2022.06:* Outstanding Student CPC Member of CUMT
-- *2021.12:* Undergraduate National Scholarship*(Top 1%)*
-- *2021.05:* [Interdisciplinary Contest In Modeling,](https://www.comap.com/) H Prize*(Top 30%)*
-- *2021.05:* [18th May Day Mathematical Modeling Competition](https://51mcm.cumt.edu.cn/30/73/c14055a602227/page.psp), First Prize*(Top 4%)*
-- *2020.12:* Undergraduate National Scholarship*(Top 1%)*
+- *2021.05:* [Sartorius - Cell Instance Segmentation](https://www.kaggle.com/competitions/sartorius-cell-instance-segmentation) Silver Medal
+- *2019-2023* Outstanding Student Scholarship (1 second class award and 2 third class awards)
 
 # 📖 Educations
 
 - *2019.09 - 2023.06*, Undergraduate, Jinan University , Guangzhou.
-
-# 👨‍💼 Internships
-
-- *2023.07 - 2023.09 (now)*, [imotorlinx](https://www.imotorlinx.com/), Algorithm engineer, Hangzhou.
-- *2022.07 - 2023.03*, [Communist Youth League CUMT Committee](https://youth.cumt.edu.cn/) , Part-time Deputy Secretary (Student), Xuzhou.
-- *2022.01 - 2023.01*, [Student Workstation of CPC in CUMT](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%9F%BF%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%85%9A%E5%91%98%E5%B7%A5%E4%BD%9C%E7%AB%99%E6%80%BB%E7%AB%99/4843975?fr=ge_ala), Chairman, Xuzhou.
