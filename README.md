@@ -9,9 +9,9 @@
 
 ## 📊 Conference
 
-### Zhong, Qi, and **Mingda Huo**. ["Crypto Profit Forecasting using hybrid Machine Learning method."](https://ieeexplore.ieee.org/abstract/document/9985937) 2022 3rd International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering (ICBAIE). IEEE, 2022. 
+- Zhong, Qi, and **Mingda Huo**. ["Crypto Profit Forecasting using hybrid Machine Learning method."](https://ieeexplore.ieee.org/abstract/document/9985937) 2022 3rd International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering (ICBAIE). IEEE, 2022. 
 
-### Xiang, Feiya, **Mingda Huo**, and Yunjian Li. ["GI Tract Image Segmentation with U-Net 3D."](https://ieeexplore.ieee.org/abstract/document/10063259)2022 16th ICME International Conference on Complex Medical Engineering (CME). IEEE, 2022. 
+- Xiang, Feiya, **Mingda Huo**, and Yunjian Li. ["GI Tract Image Segmentation with U-Net 3D."](https://ieeexplore.ieee.org/abstract/document/10063259)2022 16th ICME International Conference on Complex Medical Engineering (CME). IEEE, 2022. 
 
 # 📝 Competitions
 
