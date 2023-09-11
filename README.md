@@ -49,7 +49,6 @@
 - *2023.06*: Outstanding Student CPC Member of JNU
 - *2022.09:* [Foursquare - Location Matching: Match point of interest data across datasets](https://www.kaggle.com/competitions/foursquare-location-matching)Silver Medal
 - *2022.07:* [Google Research - Image Matching Challenge](https://www.kaggle.com/competitions/image-matching-challenge-2022), Gold Medal
-- *2022.06:* Outstanding Student CPC Member of CUMT
 - *2021.05:* [Sartorius - Cell Instance Segmentation](https://www.kaggle.com/competitions/sartorius-cell-instance-segmentation) Silver Medal
 - *2019-2023* Outstanding Student Scholarship (1 second class award and 2 third class awards)
 
