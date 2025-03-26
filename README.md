@@ -1,9 +1,9 @@
 ### Hi there 👋
- I am **Mingda Huo (霍明达)**, a Quantitative Investment Intern at the Asset Management Department of Ping An Insurance（Group）Company of China, Ltd.(https://group.pingan.com/).  I received my B.S. degree in Computer Science and Technology from [Jinan university](https://www.jnu.edu.cn/) in 2023, advised by Prof. [Lin Cui](https://cuilin.antlab.network/).
+ I am **Ming**, a Quantitative Investment Intern at the Asset Management Department of Ping An Insurance（Group）Company of China, Ltd.(https://group.pingan.com/).  I received my B.S. degree in Computer Science and Technology from [Jinan university](https://www.jnu.edu.cn/) in 2023, advised by Prof. [Lin Cui](https://cuilin.antlab.network/).
 
  My primary research interests include **federated learning**, **dataset distillation** and their intersections. If you have any academic problems or seeking any form of cooperation, please feel free to email me at [sydney678@stu2019.jnu.edu.cn]( sydney678@stu2019.jnu.edu.cn) 😃
 
-🏷️Download my [CV-en](./霍明达个人简历.pdf).
+
 
 # 📝 Publications
 
